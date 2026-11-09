@@ -2,7 +2,7 @@
 <h3 align="center">UX/UI Designer • Full-Stack Developer • React Native Builder • Curious about HCI</h3>
 
 <p align="center">
-  <img src="assets/desk.svg" width="78%" alt="Animated scene: Manel at her desk saying hello in English, French and Arabic while code types on her laptop.">
+  <img src="assets/typing.svg" width="82%" alt="Animated collage: hands typing on a blue laptop while code snippets pop out, under the cut-out letters design then build.">
 </p>
 
 <p align="center">
