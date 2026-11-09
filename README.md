@@ -92,7 +92,7 @@ Also: React Native, Expo, Canva, Remotion, SQL, Scrum.
 
 ### 🎓 Education & Languages
 
-**Licence en Informatique (GLSI)**, Faculté des Sciences de Tunis, 2026 · Mention Très Bien
+**Licence en Informatique (GLSI)**, Faculté des Sciences de Tunis, 2026
 
 Arabic (native) · French (fluent) · English (advanced, C1)
 
